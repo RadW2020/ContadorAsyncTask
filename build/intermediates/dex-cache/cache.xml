@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RadW\StudioProjects\Ud3_ContadorAsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c37a9606ca53ecb221f9dec23f95b32109bbf0c">
+        <dex dex="C:\Users\RadW\StudioProjects\Ud3_ContadorAsyncTask\app\build\intermediates\pre-dexed\debug\instant-run_be149651270a6f1b371eeb00d006b37028df7bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RadW\StudioProjects\Ud3_ContadorAsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="beb644b465934072a10b0620090968d62b93577c">
+        <dex dex="C:\Users\RadW\StudioProjects\Ud3_ContadorAsyncTask\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_07439a12d8797b9a8f12c94eb49c05d44c47811a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Utilidades\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\RadW\StudioProjects\Ud3_ContadorAsyncTask\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5916446a9be68edd87437513bb80ffbcb2cc058f.jar" />
+    </item>
+
+</items>

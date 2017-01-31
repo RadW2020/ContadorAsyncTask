@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ud3_ContadorAsyncTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="comenzarContador">Iniciar la cuenta</string>
+    <string name="pararContador">Finalizar la cuenta</string>
+    <string name="contador">0</string>
+
+</resources>
